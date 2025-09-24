@@ -1,0 +1,52 @@
+#header_text {
+  font-size: 0.5em;
+  border-top: 1px solid rgb(252, 198, 81);
+  padding: 0.5em;
+  background-color: rgba(247, 238, 220, 0.687);
+}
+
+#logo {
+  width: 20%;
+}
+
+body {
+  text-align: center;
+  font-size: 1.2em;
+}
+
+main {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+video {
+  width: 100%;
+  border-radius: 2%;
+}
+
+#img_creator {
+  color: rgb(105, 121, 65);
+  font-size: 0.7em;
+}
+
+#featured_box {
+  width: 90%;
+  color: rgb(186, 113, 28);
+  text-align: left;
+  border-left: 1px solid rgb(252, 198, 81);
+  padding-left: 0.3em;
+}
+
+a {
+  color: rgb(49, 121, 106);
+}
+
+.ingredients_box,
+.method_box {
+  text-align: left;
+}
+
+.recipe_steps {
+  border-bottom: 1px solid rgb(99, 208, 248);
+}
